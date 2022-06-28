@@ -1,3 +1,5 @@
+<img src="PETSHOP">
+
 # PetShop em NodeJS
 Projeto PetShop feito em NodeJS
 
