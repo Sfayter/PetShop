@@ -1,4 +1,4 @@
-<img src="PETSHOP">
+<img src="PETSHOP.png">
 
 # PetShop em NodeJS
 Projeto PetShop feito em NodeJS
